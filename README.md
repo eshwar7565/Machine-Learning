@@ -2,6 +2,10 @@
 
 This repo consists of machine learning models 
 
+Andreas C. Müller & Sarah Guido  - Introduction to Machine Learning is very useful for beginners
+
+Sarah Gudio is working Data Science professional 
+
 
 
 Classification Problems  and Algorithms
